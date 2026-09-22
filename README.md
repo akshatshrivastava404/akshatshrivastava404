@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm [Akshat Shrivastava], a Computer Science Engineering student from [INDIA].
+I'm learning to build systems that don't just predict things, but reason and act on their own — currently deep in Machine Learning and Agentic AI.
+
