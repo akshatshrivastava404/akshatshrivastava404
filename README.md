@@ -22,5 +22,5 @@ I'm learning to build systems that don't just predict things, but reason and act
 
 Whenever I come across an interesting paper or idea, I try to turn it into a working prototype, however messy the first version is.
 
-My main tech stack is Python, PyTorch, LangChain,LangGraph and FastAPI. My go-to tools are VS Code, Jupyter, and Google Colab.
+My main tech stack is Python, PyTorch, LangChain, LangGraph and FastAPI. My go-to tools are VS Code, Jupyter, and Google Colab.
 
