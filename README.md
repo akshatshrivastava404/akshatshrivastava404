@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm [Akshat], a Computer Science Engineering student from [INDIA].
+I'm {Akshat Shrivastava}, a Computer Science Engineering student from {INDIA}.
 
 I'm learning to build systems that don't just predict things, but reason and act on their own — currently deep in Machine Learning and Agentic AI.
 
 Whenever I come across an interesting paper or idea, I try to turn it into a working prototype, however messy the first version is.
 
-My main tech stack is Python, PyTorch, LangChain, and FastAPI. My go-to tools are VS Code, Jupyter, and Google Colab.
+My main tech stack is Python, PyTorch, LangChain,LangGraph and FastAPI. My go-to tools are VS Code, Jupyter, and Google Colab.
 
-I'm still early in my journey, but I've already pushed [X]+ public repos — a mix of coursework, ML experiments, and AI agents that are (mostly) well-behaved.
