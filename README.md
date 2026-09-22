@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm ![Akshat Shrivastava], a Computer Science Engineering student from ![INDIA].
+I'm ![Akshat Shrivastava](https://img.shields.io/badge/Akshat_Shrivastava-blue), a Computer Science Engineering student from ![INDIA](https://img.shields.io/badge/INDIA-blue).
 
 I'm learning to build systems that don't just predict things, but reason and act on their own — currently deep in Machine Learning and Agentic AI.
 
